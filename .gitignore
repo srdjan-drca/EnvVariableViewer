@@ -1,0 +1,10 @@
+# ignore all logs
+*.dll
+
+# visual studio
+*.suo
+*.user
+bin/
+obj/
+packages/
+.vs/
